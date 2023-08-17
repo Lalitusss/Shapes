@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlborChallenge", "AlborChallenge\AlborChallenge.csproj", "{128E741C-00D8-4311-8EE3-608F4756FA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlborChallengeUnitTest", "AlborChallengeUnitTest\AlborChallengeUnitTest.csproj", "{0D0BBCE4-EE62-455B-9C96-163F102E158F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128E741C-00D8-4311-8EE3-608F4756FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128E741C-00D8-4311-8EE3-608F4756FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128E741C-00D8-4311-8EE3-608F4756FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128E741C-00D8-4311-8EE3-608F4756FA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0BBCE4-EE62-455B-9C96-163F102E158F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0BBCE4-EE62-455B-9C96-163F102E158F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0BBCE4-EE62-455B-9C96-163F102E158F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0BBCE4-EE62-455B-9C96-163F102E158F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E31BDCD-482E-4A00-AF06-18E627699DEB}
+	EndGlobalSection
+EndGlobal
